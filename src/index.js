@@ -3,6 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'mdb-react-ui-kit/dist/css/mdb.min.css'
+import "slick-carousel/slick/slick-theme.css";
+import "slick-carousel/slick/slick.css";
+import 'antd/dist/antd.css';
 
 ReactDOM.render(
   <React.StrictMode>
